@@ -2,7 +2,7 @@
 
 **Student Name:** Fulufhelo Mulaudzi 
 **Student Number:** 402601594  
-**GitHub Repository:** [Enter Your GitHub Link Here]  
+**GitHub Repository:** https://github.com/FulufheloMulaudzi/Smart-Campus-Resource-Booking-System/tree/main/SmartCampus 
 **Module:** Programming 512  
 **Institution:** Richfield Graduate Institution  
 
