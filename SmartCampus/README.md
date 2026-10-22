@@ -1,7 +1,7 @@
 # Smart Campus Resource Booking System
 
-**Student Name:** [Enter Your Full Name Here]  
-**Student Number:** [Enter Your Student Number Here]  
+**Student Name:** Fulufhelo Mulaudzi 
+**Student Number:** 402601594  
 **GitHub Repository:** [Enter Your GitHub Link Here]  
 **Module:** Programming 512  
 **Institution:** Richfield Graduate Institution  
